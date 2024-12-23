@@ -9,3 +9,6 @@ After pyspark is configured with GCP bucket, setup Apache Machine Learning Libra
 
 ## Guide, code functionalities and metholodogies 
 Refer to report in /docs section for detailed information 
+
+## Link to Project Presentation 
+https://www.youtube.com/watch?v=U1wJMCSuJcI
